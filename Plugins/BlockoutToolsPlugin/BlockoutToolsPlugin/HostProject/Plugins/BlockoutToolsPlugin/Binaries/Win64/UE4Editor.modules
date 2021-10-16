@@ -1,8 +1,0 @@
-{
-	"BuildId": "14830424",
-	"Modules": 
-	{
-		"BlockoutToolsEditorPlugin": "UE4Editor-BlockoutToolsEditorPlugin.dll",
-		"BlockoutToolsPlugin": "UE4Editor-BlockoutToolsPlugin.dll"
-	}
-}
